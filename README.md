@@ -1,2 +1,2 @@
 # Twitter-Clone
-A clone of twitter desktop timeline
+A clone of Twitter's desktop timeline
